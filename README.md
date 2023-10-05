@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...angularjs
 - 🌱 I’m currently learning ...Angular
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...arpitt@gamil.com
+- 📫 How to reach me ...arpitt9378@gmail.com
 
 <!---
 Arpit-008/Arpit-008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
